@@ -1,4 +1,4 @@
-# Fix Youtube titles
+# Fix Youtube titles [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
 *Without this plugin*, shortening a Youtube URL returns an incorrect title: <kbd>Before you continue to YouTube</kbd> (read why below)
 
